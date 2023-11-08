@@ -1,6 +1,5 @@
 # TypeScript
 *.tsbuildinfo
-*.ts
 
 # Node.js
 node_modules/
